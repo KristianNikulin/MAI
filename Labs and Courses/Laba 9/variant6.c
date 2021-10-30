@@ -106,10 +106,3 @@ int main()
 
     return 0;
 }
-// INSIDE
-// 6 -11
-// 28 2
-
-// INSIDE
-// 7 -7
-// 34 -10
